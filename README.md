@@ -8,3 +8,4 @@
 7. UI组件库：element-plus
 8. 仓库持久化存储：pinia-plugin-persist
 9. ElementPlus字体图标：element-plus/icons-vue
+# xnn-vue3-subcar
